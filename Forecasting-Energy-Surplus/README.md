@@ -33,7 +33,7 @@ The system forecasts energy production **24 hours in advance** to optimize renew
   - Incorrect surplus predictions **cost £92,576.63 per year**
 
 ## 📂 Files Included
-- 📜 **Assignment_1.ipynb** – Jupyter Notebook with full project code
+- 📜 **Assignment.ipynb** – Jupyter Notebook with full project code
 - 📊 **brighton_###.csv** – CSV files containing historical weather data
 - 📄 **Project_Energy.pptx** – Project presentation
 - 📝 **feedback.xlsx** – Professor's feedback on the project
